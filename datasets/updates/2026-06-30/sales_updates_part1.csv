@@ -1,0 +1,4 @@
+transaction_id,store_id,customer_id,product_category,payment_method,sales_amount,transaction_time,ingestion_time,promotion_code
+100005,S002,C1005,Electronics,Debit Card,7299.0,2026-06-01 10:48:00,2026-06-30 09:00:00,SUMMER200
+100011,S004,C1011,Electronics,Credit Card,9499.0,2026-06-01 12:14:00,2026-06-30 09:05:00,FLASH500
+100016,S003,C1016,Home Decor,UPI,1599.0,2026-06-30 09:10:00,2026-06-30 09:11:00,HOME100

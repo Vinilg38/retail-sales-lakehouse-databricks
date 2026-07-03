@@ -1,0 +1,4 @@
+transaction_id,store_id,customer_id,product_category,payment_method,sales_amount,transaction_time,ingestion_time,promotion_code
+100017,S001,C1017,Grocery,Cash,320.0,2026-06-30 09:20:00,2026-06-30 09:20:30,GROCERY50
+100018,S005,C1018,Fashion,Credit Card,2799.0,2026-06-30 09:35:00,2026-06-30 09:36:15,FASHION10
+100018,S005,C1018,Fashion,Credit Card,2699.0,2026-06-30 09:35:00,2026-06-30 09:45:00,FASHION20
