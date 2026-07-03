@@ -1,4 +1,0 @@
-transaction_id,store_id,customer_id,product_category,payment_method,sales_amount,transaction_time,ingestion_time,promotion_code
-100019,S002,C1019,Beauty,UPI,799.0,2026-06-17 16:00:00,2026-06-30 10:00:00,BEAUTY5
-100020,S003,C1020,Electronics,Debit Card,5999.0,2026-05-15 11:00:00,2026-06-30 10:30:00,LATE100
-100021,S006,C1021,Sports,UPI,1899.0,2026-06-30 11:00:00,2026-06-30 11:02:00,SPORT25
