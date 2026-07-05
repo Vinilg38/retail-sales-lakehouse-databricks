@@ -370,7 +370,7 @@ For better readability, only the most relevant business columns are displayed in
 
 ## Bronze Layer
 
-![Bronze Output](images/bronze_output.png)
+![Bronze Output](images/bronze_output.jpeg)
 
 ---
 
@@ -378,7 +378,7 @@ For better readability, only the most relevant business columns are displayed in
 
 The Silver layer validates incoming data, performs schema evolution, removes duplicates, identifies late-arriving records and merges valid records into the curated Silver table.
 
-![Silver Output](images/silver_output.png)
+![Silver Output](images/silver_output.jpeg)
 
 ---
 
@@ -386,7 +386,7 @@ The Silver layer validates incoming data, performs schema evolution, removes dup
 
 The Gold layer generates analytics-ready business KPIs from the curated Silver dataset.
 
-![Gold Output](images/gold_output.png)
+![Gold Output](images/gold_output.jpeg)
 
 ---
 
